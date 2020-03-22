@@ -1,0 +1,22 @@
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       18:35:20
+
+ *** WARNING ***                         CP =       8.500   TIME= 18:35:26
+ Using 1 iteration per substep may result in unconverged solutions for   
+ nonlinear analysis and the program may not indicate divergence in this  
+ case.  Check your results.                                              
+
+ *** WARNING ***                         CP =      11.047   TIME= 18:35:28
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =      18.703   TIME= 18:35:34
+ Material number 8 (used by element 19049761 ) should normally have at   
+ least one MP or one TB type command associated with it.  Output of      
+ energy by material may not be available.                                
+
+ *** WARNING ***                         CP =      44.719   TIME= 18:35:56
+ Too many nodes 6446 are included in the force-distributed-surface       
+ constraint identified by real constant set 10.  This may greatly        
+ affect solver performance due to large wave fronts and memory           
+ consumption.  Also check results carefully and consider solving with a  
+ different unit system.                                                  
